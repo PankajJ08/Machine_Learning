@@ -7,4 +7,5 @@
 You can find the dataset on kaggle: https://www.kaggle.com/zalando-research/fashionmnist
 
 I also have the kernel on kaggle: https://www.kaggle.com/pankajj/fashion-mnist-with-pytorch-93-accuracy
+
 Please feel free to check it.
